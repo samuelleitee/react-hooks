@@ -8,3 +8,7 @@
 - useContext :construction:
 - Custom Hooks :construction:
 - Regras (Boas Práticas) :construction:
+
+
+###### References: 
+[Documentação do React](https://react.dev/)
